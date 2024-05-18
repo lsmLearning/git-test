@@ -14,5 +14,6 @@ public class git {
         System.out.println("123");
         System.out.println("1234");
         System.out.println("123456");
+        System.out.println("1234567");
     }
 }
