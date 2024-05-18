@@ -12,6 +12,7 @@ package com.lsm;
 public class git {
     public static void main(String[] args) {
         System.out.println("123");
+        System.out.println("12345);
     }
     void fun() {
         System.out.println(123);
